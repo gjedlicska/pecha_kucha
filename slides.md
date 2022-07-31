@@ -5,7 +5,7 @@ fonts:
   sans: Inter
   mono: Inter
 layout: intro-image
-image: ./assets/jedlicska_dalma_collection -1.jpg
+image: /jedlicska_dalma_collection -1.jpg
 favicon: https://cdn.jsdelivr.net/gh/slidevjs/slidev/assets/favicon.png
 title: Pecha Kucha
 ---
