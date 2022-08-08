@@ -32,7 +32,7 @@ layout: intro-image
 image: /DSC04726.JPG
 ---
 
-# fam 
+# 
 
 ---
 layout: intro-image
@@ -40,106 +40,107 @@ image: /IN1223_B.jpg
 cover: false
 ---
 
-# tag
+#
 
 --- 
 layout: intro-image
 image: https://images.adsttc.com/media/images/5805/7402/e58e/cec6/b400/0011/large_jpg/szellkalman_02.jpg?1476752379
 ---
 
-# leaving
+#
 
 ---
 layout: intro-image
 image: /prez34.jpg
 ---
 
-# OSLA
+#
 
 ---
 layout: intro-image
 image: /50996498-0-3d-bim-model.webp
 ---
-# orga 
+# 
 
 ---
 layout: intro-image
 image: /PXL_20210923_161220632.jpg
 ---
-# Speckle
-
----
-layout: intro-image
-image: /GD97.jpg
----
-
-# woman 
+# 
 
 ---
 layout: intro-image
 image: /Gergő és Dalma-122.jpg
 ---
 
-# boy 
+#
+
+---
+layout: intro-image
+image: /246A9974-2.jpg
+---
+
+#
 
 ---
 layout: intro-image
 image: /kemover-10.jpg
 ---
 
-# kemo 
+#
 
 ---
 layout: intro-image
 image: /PXL_20211226_110823285.jpg
 ---
-# fam
+#
 
----
-layout: intro-image
-image: /MVIMG_20201222_091657.jpg
----
-# bread
----
-layout: intro-image
-image: /IMG_20210725_174324~2.jpg
----
-# cook
-
----
-layout: intro-image
-image: /dalma_gergő_vilmos-109.jpg
----
-# rocketman
----
-layout: intro-image
-image: /d.JPG
----
-# nature
----
-layout: intro-image
-image: /IMG_20191026_130343.jpg
----
-# hike
----
-layout: intro-image
-image: /PXL_20220624_070202222.TS_exported_589290_1659950678185.jpg
----
-# heard 
-
----
-layout: intro-image
-image: /ezgif.com-gif-maker.gif
----
-# workaholic
 ---
 layout: intro-image
 image: /jedlicska_dalma_collection -207.jpg
 ---
-# dalmaj 
+#
 ---
-# Learn More
+layout: intro-image
+image: /MVIMG_20201222_091657.jpg
+---
+#
+---
+layout: intro-image
+image: /IMG_20210725_174324~2.jpg
+---
+#
 
-## [Presentation source](https://github.com/gjedlicska/pecha_kucha)
+---
+layout: intro-image
+image: /d.JPG
+---
+#
+---
+layout: intro-image
+image: /dalma_gergő_vilmos-109.jpg
+---
+#
+---
+layout: intro-image
+image: /IMG_20191026_130343.jpg
+---
+#
+---
+layout: intro-image
+image: /ezgif.com-gif-maker.gif
+---
+#
+---
+layout: intro-image
+image: /PXL_20220624_070202222.TS_exported_589290_1659950678185.jpg
+---
+#
 
-[made with Slidev](https://sli.dev)
+---
+---
+# [Presentation source](https://github.com/gjedlicska/pecha_kucha)
+
+## [made with Slidev](https://sli.dev)
+
+
