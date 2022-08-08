@@ -5,12 +5,16 @@ const props = defineProps({
   image: {
     type: String,
   },
+  cover: {
+    type: Boolean
+  }
 })
-const style = computed(() => handleBackground(props.image))
+const style = computed(() => handleBackground(props.image, false, props.cover))
+console.log(props.cover, style)
 </script>
 
 <template>
-  <div class="slidev-layout w-full h-full intro-image" :style="style">
+  <div class="bg-black slidev-layout w-full h-full intro-image" :style="style">
     <slot />
   </div>
 </template>
